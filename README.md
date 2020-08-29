@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning couple of new technical and non-technical skills.
 - 👯 I’m looking to collaborate on some open source project.
 - 💬 Ask me about UI Development
-- 📫 How to reach me: prashant[dot]epost[at]outlook[dot]com
+- 📫 How to reach me: prashant-sharma[at]outlook[dot]in
 - ⚡ Fun fact: :) ;)
