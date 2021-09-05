@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on some open source project.
 - 💬 Ask me about UI Development
 - 📫 How to reach me: prashant-sharma[at]outlook[dot]in
-- ⚡ Fun fact: :) ;)
